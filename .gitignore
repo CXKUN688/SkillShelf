@@ -1,0 +1,10 @@
+node_modules/
+outputs/
+data/
+work/
+publish/
+README.txt
+docs/superpowers/
+.env
+.env.*
+*.log

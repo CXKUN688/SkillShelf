@@ -1,0 +1,1 @@
+paintIcons();renderPage();refreshScan().catch(e=>{$('#main').innerHTML=empty(e.message);toast(e.message);});
